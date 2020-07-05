@@ -1,3 +1,3 @@
 # Line_Chart
 
-Hello test
+Hello test, added more lines
